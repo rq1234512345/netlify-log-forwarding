@@ -1,0 +1,8 @@
+{
+  "name": "netlify-access-log-forwarding",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": { "@netlify/blobs": "^10.0.0", "@netlify/edge-functions": "^3.0.0", "@netlify/functions": "^5.0.0", "react": "^19.0.0" },
+  "devDependencies": { "@types/react": "^19.0.0", "typescript": "^5.9.0" }
+}
